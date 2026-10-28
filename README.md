@@ -44,3 +44,11 @@ App runs at `http://localhost:5173`
 | Framework | React 18 + Vite |
 | Styling | Tailwind CSS |
 | HTTP | Axios |
+
+
+## Screenshots
+
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/65e3294e-2720-4132-9a3b-8fdf415ce46c" />
+
+<img width="1913" height="942" alt="image" src="https://github.com/user-attachments/assets/8a32d6af-f21f-4f2f-a6e1-8e12dd37ce96" />
+
